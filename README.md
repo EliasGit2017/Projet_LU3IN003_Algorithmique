@@ -1,2 +1,2 @@
 # Projet_LU3IN003
-Projet d'algorithmique portant sur l'alignement de séquences
+Projet d'algorithmique portant sur l'alignement de séquences d'ADN.
